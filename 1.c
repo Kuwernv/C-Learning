@@ -1,5 +1,12 @@
 #include <stdio.h>
+void ReadVby(void);
+char vocabulary[3207][15];
 int main()
+{
+    ReadVby;
+    
+}
+void ReadVby(void)
 {
     char vocabulary[3207][15];
     FILE *fp = fopen("vocabulary.txt", "r");

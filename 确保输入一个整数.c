@@ -6,6 +6,6 @@ int main()
 }
 int GetInt(void)
 {
-    printf("Please Input a int");
     
+
 }
